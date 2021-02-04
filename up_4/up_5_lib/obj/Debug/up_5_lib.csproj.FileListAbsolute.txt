@@ -1,0 +1,6 @@
+A:\repositories\up_5\up_4\up_5_lib\bin\Debug\up_5_lib.dll
+A:\repositories\up_5\up_4\up_5_lib\bin\Debug\up_5_lib.pdb
+A:\repositories\up_5\up_4\up_5_lib\obj\Debug\up_5_lib.csprojAssemblyReference.cache
+A:\repositories\up_5\up_4\up_5_lib\obj\Debug\up_5_lib.csproj.CoreCompileInputs.cache
+A:\repositories\up_5\up_4\up_5_lib\obj\Debug\up_5_lib.dll
+A:\repositories\up_5\up_4\up_5_lib\obj\Debug\up_5_lib.pdb
